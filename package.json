@@ -1,0 +1,20 @@
+{
+  "name": "student-management-system-console-application",
+  "version": "1.0.0",
+  "description": "Console Application For Student Management",
+  "main": "app.js",
+  "scripts": {
+    "dev" : "nodemon app.js",
+    "start" : "node app.js"
+  },
+  "keywords": [],
+  "author": "Isuru Madushan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
